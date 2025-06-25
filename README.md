@@ -49,5 +49,5 @@ Random Forest Classifier (Best performer)
 Random Forest Classifier achieved the highest accuracy of 94%.
 
 ## Model Deployment
-The trained model was saved in binary format using joblib for future inference and deployment.
+The trained model was saved in binary format using pickle for future inference and deployment.
 
